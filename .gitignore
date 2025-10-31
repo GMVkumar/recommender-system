@@ -1,0 +1,6 @@
+similarity.pkl
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
