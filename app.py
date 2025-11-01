@@ -4,7 +4,7 @@ import requests
 
 # ---- Load Data ----
 movies = joblib.load('movies.pkl')
-similarity = joblib.load('similarity_compressed.pkl.gz.')
+similarity = joblib.load('similarity_compressed.pkl.gz')
 
 
 # ---- Fetch Poster ----
