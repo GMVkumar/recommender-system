@@ -17,3 +17,5 @@ This is a **content-based movie recommender system** built using the TMDb datase
 1. Clone this repo:
    ```bash
    git clone https://github.com/GMVkumar/recommender-system.git
+
+   https://recommender-system-ba4jkkku4auicgnwlzqqgq.streamlit.app/
